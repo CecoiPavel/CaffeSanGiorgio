@@ -1,0 +1,16 @@
+C:\Users\GOLIAT\RiderProjects\CaffeSanGiorgio.Console\CaffeSanGiorgio.Application\bin\Debug\net8.0\CaffeSanGiorgio.Application.deps.json
+C:\Users\GOLIAT\RiderProjects\CaffeSanGiorgio.Console\CaffeSanGiorgio.Application\bin\Debug\net8.0\CaffeSanGiorgio.Application.dll
+C:\Users\GOLIAT\RiderProjects\CaffeSanGiorgio.Console\CaffeSanGiorgio.Application\bin\Debug\net8.0\CaffeSanGiorgio.Application.pdb
+C:\Users\GOLIAT\RiderProjects\CaffeSanGiorgio.Console\CaffeSanGiorgio.Application\bin\Debug\net8.0\CaffeSanGiorgio.Domain.dll
+C:\Users\GOLIAT\RiderProjects\CaffeSanGiorgio.Console\CaffeSanGiorgio.Application\bin\Debug\net8.0\CaffeSanGiorgio.Domain.pdb
+C:\Users\GOLIAT\RiderProjects\CaffeSanGiorgio.Console\CaffeSanGiorgio.Application\obj\Debug\net8.0\CaffeSanGiorgio.Application.csproj.AssemblyReference.cache
+C:\Users\GOLIAT\RiderProjects\CaffeSanGiorgio.Console\CaffeSanGiorgio.Application\obj\Debug\net8.0\CaffeSanGiorgio.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GOLIAT\RiderProjects\CaffeSanGiorgio.Console\CaffeSanGiorgio.Application\obj\Debug\net8.0\CaffeSanGiorgio.Application.AssemblyInfoInputs.cache
+C:\Users\GOLIAT\RiderProjects\CaffeSanGiorgio.Console\CaffeSanGiorgio.Application\obj\Debug\net8.0\CaffeSanGiorgio.Application.AssemblyInfo.cs
+C:\Users\GOLIAT\RiderProjects\CaffeSanGiorgio.Console\CaffeSanGiorgio.Application\obj\Debug\net8.0\CaffeSanGiorgio.Application.csproj.CoreCompileInputs.cache
+C:\Users\GOLIAT\RiderProjects\CaffeSanGiorgio.Console\CaffeSanGiorgio.Application\obj\Debug\net8.0\CaffeSanGiorgio.Application.sourcelink.json
+C:\Users\GOLIAT\RiderProjects\CaffeSanGiorgio.Console\CaffeSanGiorgio.Application\obj\Debug\net8.0\CaffeSan.CE760E9A.Up2Date
+C:\Users\GOLIAT\RiderProjects\CaffeSanGiorgio.Console\CaffeSanGiorgio.Application\obj\Debug\net8.0\CaffeSanGiorgio.Application.dll
+C:\Users\GOLIAT\RiderProjects\CaffeSanGiorgio.Console\CaffeSanGiorgio.Application\obj\Debug\net8.0\refint\CaffeSanGiorgio.Application.dll
+C:\Users\GOLIAT\RiderProjects\CaffeSanGiorgio.Console\CaffeSanGiorgio.Application\obj\Debug\net8.0\CaffeSanGiorgio.Application.pdb
+C:\Users\GOLIAT\RiderProjects\CaffeSanGiorgio.Console\CaffeSanGiorgio.Application\obj\Debug\net8.0\ref\CaffeSanGiorgio.Application.dll

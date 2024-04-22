@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "22Hbuh0RmalPryr4SXkKWxotf5Ql8uWJChgN5AKWmrbaVljPZCm0wJkk74Df5YlXgnBAt+iWOYTzTHisYyCu3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GOLIAT\\RiderProjects\\CaffeSanGiorgio.Console\\CaffeSanGiorgio.Application\\CaffeSanGiorgio.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GOLIAT\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\GOLIAT\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\GOLIAT\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

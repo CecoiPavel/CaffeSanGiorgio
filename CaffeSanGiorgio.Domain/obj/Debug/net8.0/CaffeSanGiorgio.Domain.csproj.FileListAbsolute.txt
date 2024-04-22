@@ -1,0 +1,12 @@
+C:\Users\GOLIAT\RiderProjects\CaffeSanGiorgio.Console\CaffeSanGiorgio.Domain\bin\Debug\net8.0\CaffeSanGiorgio.Domain.deps.json
+C:\Users\GOLIAT\RiderProjects\CaffeSanGiorgio.Console\CaffeSanGiorgio.Domain\bin\Debug\net8.0\CaffeSanGiorgio.Domain.dll
+C:\Users\GOLIAT\RiderProjects\CaffeSanGiorgio.Console\CaffeSanGiorgio.Domain\bin\Debug\net8.0\CaffeSanGiorgio.Domain.pdb
+C:\Users\GOLIAT\RiderProjects\CaffeSanGiorgio.Console\CaffeSanGiorgio.Domain\obj\Debug\net8.0\CaffeSanGiorgio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GOLIAT\RiderProjects\CaffeSanGiorgio.Console\CaffeSanGiorgio.Domain\obj\Debug\net8.0\CaffeSanGiorgio.Domain.AssemblyInfoInputs.cache
+C:\Users\GOLIAT\RiderProjects\CaffeSanGiorgio.Console\CaffeSanGiorgio.Domain\obj\Debug\net8.0\CaffeSanGiorgio.Domain.AssemblyInfo.cs
+C:\Users\GOLIAT\RiderProjects\CaffeSanGiorgio.Console\CaffeSanGiorgio.Domain\obj\Debug\net8.0\CaffeSanGiorgio.Domain.csproj.CoreCompileInputs.cache
+C:\Users\GOLIAT\RiderProjects\CaffeSanGiorgio.Console\CaffeSanGiorgio.Domain\obj\Debug\net8.0\CaffeSanGiorgio.Domain.sourcelink.json
+C:\Users\GOLIAT\RiderProjects\CaffeSanGiorgio.Console\CaffeSanGiorgio.Domain\obj\Debug\net8.0\CaffeSanGiorgio.Domain.dll
+C:\Users\GOLIAT\RiderProjects\CaffeSanGiorgio.Console\CaffeSanGiorgio.Domain\obj\Debug\net8.0\refint\CaffeSanGiorgio.Domain.dll
+C:\Users\GOLIAT\RiderProjects\CaffeSanGiorgio.Console\CaffeSanGiorgio.Domain\obj\Debug\net8.0\CaffeSanGiorgio.Domain.pdb
+C:\Users\GOLIAT\RiderProjects\CaffeSanGiorgio.Console\CaffeSanGiorgio.Domain\obj\Debug\net8.0\ref\CaffeSanGiorgio.Domain.dll
